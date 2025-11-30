@@ -1,0 +1,11 @@
+# Parking Lot Detection Dataset Configuration
+path: C:/Users/ehdez/OneDrive/Escritorio/Tec/Proyecto-IoT/parking-dataset
+
+train: images/train
+val: images/val
+
+# Number of classes
+nc: 2
+
+# Class names (0: car, 1: obstacle)
+names: ['car', 'obstacle']

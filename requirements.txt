@@ -1,0 +1,26 @@
+# Flask web framework
+flask>=2.3.0
+
+# Computer Vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# YOLO Object Detection
+ultralytics>=8.0.0
+
+# PyTorch
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Database
+mysql-connector-python>=8.0.0
+
+# Dashboard
+streamlit>=1.28.0
+matplotlib>=3.7.0
