@@ -4,8 +4,8 @@
 #include "soc/soc.h"
 #include "soc/rtc_cntl_reg.h"
 
-const char* WIFI_SSID = "HUAWEI-102X5K";
-const char* WIFI_PASS = "b5C9eNx56M";
+const char* WIFI_SSID = "YOUR_WIFI_NAME";
+const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
 
 #define PWDN_GPIO_NUM    -1
 #define RESET_GPIO_NUM   -1
